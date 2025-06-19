@@ -1,3 +1,5 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+TRC20: TTeYyRnPk7upbrDtT1Ud6uhrqDtE5iQaUj
+BEP20: 0xdbe8c4d48a11fea5cb4f03d83140bb71342cf1c2
+SOL: CfGB3GnqK19uxZBtVuBTaRaYvnWSYMi5E9qQVan6Xqbj
+BTC: 3Mbh5KCcRnu4eZ5Qzom3wBJYd8EZv2pA6A
+ETH: 0xdbe8c4d48a11fea5cb4f03d83140bb71342cf1c2
